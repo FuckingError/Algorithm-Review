@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547811000 source:e:\workspace\algorithm review\3.longest common subsequence\main.cpp
+	<iostream>
+	<cstring>
+	<stack>
+
